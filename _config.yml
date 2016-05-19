@@ -1,0 +1,14 @@
+layout_spectrum: 0.6250916179269552
+typography_spectrum: 0.5542515499982983
+color:
+  brandStrength: 0.20923112309537828
+  lightness: 0.5426272973418236
+  saturation: 0.45645851199515164
+  rhythmicContrast: 0.9683150192722678
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: ThatPicture
